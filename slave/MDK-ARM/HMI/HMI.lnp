@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"hmi\startup_stm32f103xb.o"
+"hmi\stm32f1xx_it.o"
+"hmi\stm32f1xx_hal_msp.o"
+"hmi\main.o"
+"hmi\gpio.o"
+"hmi\usart.o"
+"hmi\hmi.o"
+"hmi\system_stm32f1xx.o"
+"hmi\stm32f1xx_hal_tim_ex.o"
+"hmi\stm32f1xx_hal_flash_ex.o"
+"hmi\stm32f1xx_hal_tim.o"
+"hmi\stm32f1xx_hal_rcc_ex.o"
+"hmi\stm32f1xx_hal_rcc.o"
+"hmi\stm32f1xx_hal_gpio_ex.o"
+"hmi\stm32f1xx_hal.o"
+"hmi\stm32f1xx_hal_dma.o"
+"hmi\stm32f1xx_hal_gpio.o"
+"hmi\stm32f1xx_hal_cortex.o"
+"hmi\stm32f1xx_hal_flash.o"
+"hmi\stm32f1xx_hal_pwr.o"
+"hmi\stm32f1xx_hal_uart.o"
+--library_type=microlib --strict --scatter "HMI\HMI.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "HMI.map" -o HMI\HMI.axf
