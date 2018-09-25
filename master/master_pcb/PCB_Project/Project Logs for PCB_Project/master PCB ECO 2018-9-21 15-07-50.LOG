@@ -1,0 +1,47 @@
+Added Component: Designator=S?(7*7自锁开关)
+Added Component: Designator=S?(7*7自锁开关)
+Added Component: Designator=S?(7*7自锁开关)
+Added Component: Designator=S?(7*7自锁开关)
+Added Component: Designator=S?(7*7自锁开关)
+Added Component: Designator=STM32最小系统板(STM32最小系统板)
+Added Component: Designator=(PCBComponent_1)
+Added Pin To Net: NetName=3.3V Pin=STM32最小系统板-20
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=STM32最小系统板-18
+Added Net: Name=5V
+Added Pin To Net: NetName=ECHO Pin=STM32最小系统板-17
+Added Net: Name=ECHO
+Added Pin To Net: NetName=GND Pin=STM32最小系统板-19
+Added Pin To Net: NetName=GND Pin=STM32最小系统板-21
+Added Net: Name=GND
+Added Pin To Net: NetName=PARK1 Pin=S?-6
+Added Pin To Net: NetName=PARK1 Pin=STM32最小系统板-35
+Added Net: Name=PARK1
+Added Pin To Net: NetName=PARK2 Pin=S?-6
+Added Pin To Net: NetName=PARK2 Pin=STM32最小系统板-34
+Added Net: Name=PARK2
+Added Pin To Net: NetName=PARK3 Pin=S?-6
+Added Pin To Net: NetName=PARK3 Pin=STM32最小系统板-33
+Added Net: Name=PARK3
+Added Pin To Net: NetName=PARK4 Pin=S?-6
+Added Pin To Net: NetName=PARK4 Pin=STM32最小系统板-32
+Added Net: Name=PARK4
+Added Pin To Net: NetName=PARK5 Pin=S?-6
+Added Pin To Net: NetName=PARK5 Pin=STM32最小系统板-31
+Added Net: Name=PARK5
+Added Pin To Net: NetName=PARK_POW Pin=S?-5
+Added Pin To Net: NetName=PARK_POW Pin=S?-5
+Added Pin To Net: NetName=PARK_POW Pin=S?-5
+Added Pin To Net: NetName=PARK_POW Pin=S?-5
+Added Pin To Net: NetName=PARK_POW Pin=S?-5
+Added Pin To Net: NetName=PARK_POW Pin=STM32最小系统板-23
+Added Net: Name=PARK_POW
+Added Pin To Net: NetName=RX Pin=STM32最小系统板-7
+Added Net: Name=RX
+Added Pin To Net: NetName=TRIG Pin=STM32最小系统板-16
+Added Net: Name=TRIG
+Added Pin To Net: NetName=TX Pin=STM32最小系统板-6
+Added Net: Name=TX
+Added Net: Name=VCC
+Added Class: Name=master
+Added Room: Name=master
