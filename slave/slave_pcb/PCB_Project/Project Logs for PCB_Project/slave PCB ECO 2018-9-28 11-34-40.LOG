@@ -1,0 +1,8 @@
+Added Component: Designator=*(PCBComponent_1)
+Added Component: Designator=*(PCBComponent_1)
+Added Net: Name=RX1
+Added Net: Name=RX2
+Added Net: Name=TX1
+Added Net: Name=TX2
+Added Class: Name=slave
+Added Room: Name=slave

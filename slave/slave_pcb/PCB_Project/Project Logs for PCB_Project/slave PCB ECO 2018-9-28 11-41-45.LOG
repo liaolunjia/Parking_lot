@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=* NewDesignator=1
+Change Component Designator: OldDesignator=* NewDesignator=2
+Added Net: Name=RX1
+Added Net: Name=RX2
+Added Net: Name=TX1
+Added Net: Name=TX2
+Added Class: Name=slave
+Added Room: Name=slave

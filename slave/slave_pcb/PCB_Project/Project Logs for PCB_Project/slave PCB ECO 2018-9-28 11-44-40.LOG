@@ -1,0 +1,13 @@
+Added Component: Designator=1(PCBComponent_1)
+Added Component: Designator=2(PCBComponent_1)
+Added Component: Designator=STM32最小系统板(STM32最小系统板)
+Added Pin To Net: NetName=RX1 Pin=STM32最小系统板-7
+Added Net: Name=RX1
+Added Pin To Net: NetName=RX2 Pin=STM32最小系统板-33
+Added Net: Name=RX2
+Added Pin To Net: NetName=TX1 Pin=STM32最小系统板-6
+Added Net: Name=TX1
+Added Pin To Net: NetName=TX2 Pin=STM32最小系统板-34
+Added Net: Name=TX2
+Added Class: Name=slave
+Added Room: Name=slave

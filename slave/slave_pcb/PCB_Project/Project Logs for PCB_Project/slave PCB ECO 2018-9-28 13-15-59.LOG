@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RX2 Pin=2-2
+Removed Pin From Net: NetName=TX2 Pin=2-3
+Change Component Comment : Designator=2 Old Comment=Component_1 New Comment=bluetooth
+Change Component Comment : Designator=1 Old Comment=Component_1 New Comment=display
+Added Pin To Net: NetName=RX2 Pin=2-3
+Added Pin To Net: NetName=TX2 Pin=2-4
